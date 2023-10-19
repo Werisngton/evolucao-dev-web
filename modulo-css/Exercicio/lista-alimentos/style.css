@@ -1,0 +1,18 @@
+.papel {
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+}
+
+h1 {
+    border: 2px solid #000;
+    text-align: center;
+}
+
+.total{
+    text-align: center;
+    font-size: 1.5em;
+}

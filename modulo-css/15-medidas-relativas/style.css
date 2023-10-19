@@ -1,0 +1,21 @@
+html {
+    background-color: gray;
+}
+
+
+
+body {
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 2em;
+}
+
+.pai {
+    background-color: blue;
+    width: 50%;
+}
+
+.filho {
+    background-color: #1de9b6;
+    width: 50%;
+}
